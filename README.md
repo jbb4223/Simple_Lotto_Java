@@ -1,4 +1,4 @@
-# simple_lotto_java
+# Simple_Lotto_Java
 
 부부개발단 즐거운 자바 강좌
 [https://www.youtube.com/watch?v=tYGUdUlv5I8](https://www.youtube.com/channel/UChWUWqURDfGFHpCIeLO8jZA)
